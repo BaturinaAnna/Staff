@@ -1,7 +1,7 @@
 # Staff
 
 ### Class hierarchy diagram 
-<img src="img/staff.png"
+<img src="img/staff.png">
 
 ### Classes:
 
